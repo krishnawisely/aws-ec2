@@ -10,6 +10,7 @@ Login
   > ``` sudo yum remove java-1.7.0-openjdk ```
 - Install jdk new version
   > ``` sudo yum install java-1.8.0-openjdk-devel ```
+#### Step 3:
 - Download ApacheTomcat in machine
   > ``` wget http://mirrors.estointernet.in/apache/tomcat/tomcat-9/v9.0.27/bin/apache-tomcat-9.0.27.tar.gz ```
 - Unzip ApacheTomcat
@@ -18,4 +19,3 @@ Login
   > ``` cd apache-tomcat-9.0.27/bin ```
 - Finally start server
   > ``` sh startup.sh ```
-#### Step 3:
