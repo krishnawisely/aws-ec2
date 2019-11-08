@@ -16,4 +16,6 @@ Login
   > ``` tar -zxvf apache-tomcat-9.0.27.tar.gz ```
 - Change directory to the bin
   > ``` cd apache-tomcat-9.0.27/bin ```
+- Finally start server
+  > ``` sh startup.sh ```
 #### Step 3:
