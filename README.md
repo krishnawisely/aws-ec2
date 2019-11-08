@@ -19,3 +19,13 @@ Login
   > ``` cd apache-tomcat-9.0.27/bin ```
 - Finally start server
   > ``` sh startup.sh ```
+#### Step 4:
+- Add user role in tomcat-users.xml
+  > ``` cd conf/ ```
+- Open with editor
+  > ```vi tomcat-users.xml ```
+- Add following details
+  > ``` 
+  > <role rolename="manager-gui"/>
+  > <user username="krishna" password="krishna" roles="manager-gui"/>
+  > ```
