@@ -12,4 +12,8 @@ Login
   > ``` sudo yum install java-1.8.0-openjdk-devel ```
 - Download ApacheTomcat in machine
   > ``` wget http://mirrors.estointernet.in/apache/tomcat/tomcat-9/v9.0.27/bin/apache-tomcat-9.0.27.tar.gz ```
+- Unzip ApacheTomcat
+  > ``` tar -zxvf apache-tomcat-9.0.27.tar.gz ```
+- Change directory to the bin
+  > ``` cd apache-tomcat-9.0.27/bin ```
 #### Step 3:
