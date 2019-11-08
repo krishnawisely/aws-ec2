@@ -29,3 +29,9 @@ Login
   > <role rolename="manager-gui"/>
   > <user username="krishna" password="krishna" roles="manager-gui"/>
   > ```
+- Change directory using following command
+  > ``` cd webapps/manager/META-INF/ ```
+- Open context.xml with editor
+  > ``` vi context.xml ```
+- Then command line following details in 
+  > Command <Valve> and <Manager> tages.
