@@ -10,6 +10,8 @@ Login
   > ``` sudo yum remove java-1.7.0-openjdk ```
 - Install jdk new version
   > ``` sudo yum install java-1.8.0-openjdk-devel ```
+- Install jdk 11
+- > ``` sudo amazon-linux-extras install java-openjdk11 ```
 #### Step 3:
 - Download ApacheTomcat in machine
   > ``` wget http://mirrors.estointernet.in/apache/tomcat/tomcat-9/v9.0.27/bin/apache-tomcat-9.0.27.tar.gz ```
